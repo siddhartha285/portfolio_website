@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.488adb26.css",
+    "main.js": "/static/js/main.29177413.js",
+    "static/media/weather.png": "/static/media/weather.6e61848517b8b88433ee.png",
+    "static/media/netflix.png": "/static/media/netflix.0114ddff409168f478ee.png",
+    "static/media/musicplayer.png": "/static/media/musicplayer.27dc049241c29187d0ca.png",
+    "static/media/xcrypto.png": "/static/media/xcrypto.f3af91da7c642aa5059f.png",
+    "static/media/portfolio_website_img.png": "/static/media/portfolio_website_img.35ac9abfba4d2e5c0630.png",
+    "static/media/profile.jpg": "/static/media/profile.6f4015eab2fa00929260.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.921ccf8f7c0119bbc499.pdf",
+    "static/media/sorting.png": "/static/media/sorting.9a7117c79450d8720497.png",
+    "static/media/ques.png": "/static/media/ques.a535b5addc00187f82de.png",
+    "static/media/dailygoals.png": "/static/media/dailygoals.fdab646ce9db281835e6.png",
+    "index.html": "/index.html",
+    "main.488adb26.css.map": "/static/css/main.488adb26.css.map",
+    "main.29177413.js.map": "/static/js/main.29177413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.488adb26.css",
+    "static/js/main.29177413.js"
+  ]
+}
